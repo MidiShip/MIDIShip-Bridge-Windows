@@ -98,7 +98,7 @@ Briefly:
 
     ## Licensing and Trademarks
 
-**The entire project** (source code, build scripts, documentation, and compiled binaries) is distributed under the **GNU Affero General Public License, version 3.0 (AGPL-3.0-only)**. The full license text is provided in the [`LICENSE.md`](LICENSE.md) and `LICENSE-AGPL-3.0.md` files included in this distribution.
+**The entire project** (source code, build scripts, documentation, and compiled binaries) is distributed under the **GNU Affero General Public License, version 3.0 (AGPL-3.0-only)**. The full license text is provided in the [`LICENSE.md`](LICENSE.md) and [`LICENSE-AGPL-3.0.md`](LICENSE-AGPL-3.0.md)`LICENSE-AGPL-3.0.md` files included in this distribution.
 
 This project uses **JUCE 8** under the AGPL route. Any distribution (including modified versions) must comply with the terms of AGPL-3.0. If you intend to distribute MIDIShip Bridge or derivative works in a closed form (without providing source code), you must purchase a commercial license for JUCE from **Raw Material Software** and follow its terms. Learn more: [juce.com/legal/juce-8-licence](https://juce.com/legal/juce-8-licence/).
 
