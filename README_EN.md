@@ -51,6 +51,7 @@ flowchart LR
     Surface -->|"HUI Input + touch"| Remote
     Remote -->|"CC Loopback Output"| Loop["loopMIDI"]
     Loop --> MIDI
+```
 
 Bridge runs inside the Cubase process: the host sees it as an instrument, and Bridge
 creates an instance of the child VST3i. This is not a separate process and does not provide crash isolation.
@@ -76,7 +77,7 @@ the physical surface. It is advisable to keep only the selected track armed, lis
 Quick start
 
 The full up‑to‑date setup is described in the
-docs/MIDIShip_Bridge_User_Manual_EN.pdf.
+[docs/MIDIShip_Bridge_User_Manual_EN.pdf](docs/MIDIShip_Bridge_User_Manual_EN.pdf).
 
 Briefly:
 
