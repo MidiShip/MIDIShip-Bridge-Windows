@@ -84,7 +84,7 @@ Bridge продолжают воспроизводить свои инструм
 ## Быстрый старт
 
 Полная актуальная настройка находится в
-[MANUAL_RU.md](MANUAL_RU.md).
+[docs/MIDIShip_Bridge_User_Manual_RU.md](docs/MIDIShip_Bridge_User_Manual_RU.md).
 
 Кратко:
 
